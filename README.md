@@ -3,8 +3,7 @@ todo_list
 
 Visualização de uma TODO
 
-```c
-// encoding: UTF-8
+```text
 Lista de compras do mês
 
   1. Cerveja
